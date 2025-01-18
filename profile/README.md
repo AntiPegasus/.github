@@ -1,5 +1,10 @@
 # Anti-Pegasus: AI-Driven Spyware Detection and Prevention  
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/AntiPegasus/Aegis/issues)  
+
+---
+
 ## Overview  
 The invasive nature of tools like Pegasus is a stark reminder of the threats to privacy and freedom in the digital age. This project aims to develop an open-source, AI-driven solution to detect, prevent, and neutralize sophisticated spyware like Pegasus. By leveraging cutting-edge machine learning and real-time monitoring, we hope to empower individuals and organizations to protect their devices and data from unauthorized surveillance.  
 
