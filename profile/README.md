@@ -1,4 +1,4 @@
-# Anti-Pegasus: AI-Driven Spyware Detection and Prevention  
+# anti-Pegasus: AI-Driven Spyware Detection and Prevention  
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/AntiPegasus/Aegis/issues)  
